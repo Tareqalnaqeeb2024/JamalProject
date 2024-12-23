@@ -1,0 +1,6 @@
+@FirstProject.APi_HostAddress = http://localhost:5032
+
+GET {{FirstProject.APi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
